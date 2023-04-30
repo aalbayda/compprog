@@ -1,4 +1,5 @@
-// Greedy graph coloring algorithm - exercise from Analysis of Algorithms class
+// Greedy graph coloring algorithm
+// Exercise from CMSC142 (Analysis of Algorithms)
 
 #include <malloc.h>
 #include <stdio.h>

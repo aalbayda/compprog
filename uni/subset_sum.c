@@ -1,4 +1,5 @@
-// Subset sum problem - exercise from Analysis of Algorithms class
+// Subset sum problem
+// Exercise from CMSC142 (Analysis of Algorithms)
 
 #include <stdio.h>
 #include <stdlib.h>
